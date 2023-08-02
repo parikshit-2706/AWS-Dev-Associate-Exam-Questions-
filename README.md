@@ -2,9 +2,9 @@
 All the collected questions during preparation of AWS Dev Associate Certification
 
 ## EC2 Instace Storage 
-<br>1
+<br>1<br>
 <img width="521" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/9b275230-21b9-4852-aace-de695752451f">
-<br>2
+<br>2<br>
 <img width="461" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/6166d4cc-069f-4f52-850d-4c7d197ccf3c">
 <br>3
 <img width="461" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/b5de9529-fb5c-4968-977f-985290b6a489">
