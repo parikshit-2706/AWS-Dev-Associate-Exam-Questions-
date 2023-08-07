@@ -21,7 +21,7 @@ All the collected questions during preparation of AWS Dev Associate Certificatio
 <br>9<br>
 <img width="442" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/ec7fa3de-53e9-4a44-9a26-93bba45204a2">
 
-##ELB and ASG
+## ELB and ASG
 
 <br>10<br>
 <img width="530" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/17b5eaec-38f1-4110-8e7e-b915f109d91e">
