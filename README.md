@@ -88,6 +88,7 @@ All the collected questions during preparation of AWS Dev Associate Certificatio
 ![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/28b49030-238e-4d70-8ec2-df0af62eb090)
 ![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/dba26d39-403a-45a2-9484-afe1ff19d13c)
 ![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/3f00fc7c-cafe-4e8f-a216-6fce362c1ba0)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/d5049429-a9dc-4aad-9e2f-00055f6cba22)
 
 
 
