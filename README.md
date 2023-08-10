@@ -25,9 +25,8 @@ All the collected questions during preparation of AWS Dev Associate Certificatio
 
 <br>10<br>
 <img width="530" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/17b5eaec-38f1-4110-8e7e-b915f109d91e">
-<br>5<br>
-<img width="532" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/296304a3-ba03-4465-83b7-f213e78631c8">
-<br>11br>
+
+<br>11<br>
 <img width="528" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/60ea356f-7396-4bb3-b221-378b32205e7a">
 <br>12<br>
 <img width="545" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/3fba09c6-79a2-4a76-80dc-2250c05a6b13">
@@ -61,6 +60,15 @@ All the collected questions during preparation of AWS Dev Associate Certificatio
 <img width="490" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/0f88cbc5-0bee-4434-916e-34684503cdc1">
 <br>27<br>
 <img width="510" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/57887d5f-aa33-4e17-8795-10ad82b31b44">
+<br>28<br>
+<img width="532" alt="image" src="https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/296304a3-ba03-4465-83b7-f213e78631c8">
+
+
+## RDS, Aurora, Elasticache 
+
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/dce3dda7-d19c-4c42-9f22-45f55800c0f8)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/9cc8e2cd-a978-4311-bc3a-30485a3c8ff2)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/836a6807-1579-414d-845f-ad57808675ad)
 
 
 
