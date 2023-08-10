@@ -69,6 +69,26 @@ All the collected questions during preparation of AWS Dev Associate Certificatio
 ![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/dce3dda7-d19c-4c42-9f22-45f55800c0f8)
 ![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/9cc8e2cd-a978-4311-bc3a-30485a3c8ff2)
 ![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/836a6807-1579-414d-845f-ad57808675ad)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/70348ca7-39d8-48e5-a03c-1513b96d8b40)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/70f29df3-3dfa-427c-8f14-37414bb54fe6)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/4f1c5a9f-02bd-4fbd-9071-24e346d67b78)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/9cc8942b-cbd6-41c2-8b72-e13245c72e7a)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/1eb011da-19f1-4298-9b26-c22198225bf9)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/2db37fa7-ceb2-47e3-a928-98ab235d499b)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/d493b011-0248-4821-8eb6-69519e8ad004)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/8edee03a-9073-4f77-a1b0-f47a2fc03a77)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/3805f614-7620-4bf0-a5bd-f57614a291d1)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/269a9a79-bd07-47e3-b8f7-5e3cc1891a4b)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/969d9379-7e34-49d1-854b-ec771c1a3985)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/7826532f-21ff-4dca-acbb-ab059a775ebd)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/6fe56246-ed46-4586-8eea-a276951634f6)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/824d243e-fec4-4ec7-8182-41ab8642a0e3)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/6ce82965-a858-47fe-a840-d9decb8a5236)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/c0fe42c4-8fc6-4245-a950-d137fbc87fa3)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/28b49030-238e-4d70-8ec2-df0af62eb090)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/dba26d39-403a-45a2-9484-afe1ff19d13c)
+![image](https://github.com/parikshit-2706/AWS-Dev-Associate-Exam-Questions-/assets/69300831/3f00fc7c-cafe-4e8f-a216-6fce362c1ba0)
+
 
 
 
